@@ -17,7 +17,7 @@ public class Program {
                 a.Execute();
                 break;
             case 2:
-                System.out.println("Enter two numbers.");
+                System.out.println("Enter two integer numbers.");
                 int num1, num2;
                 num1=in.nextInt();
                 num2=in.nextInt();
